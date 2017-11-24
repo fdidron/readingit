@@ -1,0 +1,8 @@
+{
+  "extends": [
+    "111studio",
+    "prettier",
+    "prettier/react",
+    "prettier/standard"
+  ]
+}
